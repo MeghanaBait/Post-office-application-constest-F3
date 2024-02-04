@@ -101,6 +101,7 @@ main .left {
 /* popup */
 
 .popup{
+    display: none;
     background: #000;
     color: #B8BCCC;
 }
