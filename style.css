@@ -100,11 +100,7 @@ main .left {
 
 /* popup */
 
-.popup{
-    display: none;
-    background: #000;
-    color: #B8BCCC;
-}
+
 
 .popup .close{
     display: flex;
@@ -225,4 +221,10 @@ main .left {
 
 span{
     color: #B8BCCC;
+}
+
+.popup{
+    background: #000;
+    color: #B8BCCC;
+    display: none;
 }
